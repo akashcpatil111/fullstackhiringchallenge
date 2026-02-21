@@ -61,3 +61,14 @@ src/
 ├── App.tsx              # Main layout integration
 └── main.tsx             # Entry point
 ```
+
+---
+
+## Hiring Challenge Context
+
+This project was built as a submission for the [Fullstack Hiring Challenge](https://github.com/neugence/fullstackhiringchallenge). It fulfills all the core requirements:
+1. Lexical Editor Setup (React bindings, standard architecture)
+2. Table Support (Native Lexical grid integration)
+3. Mathematical Expressions (Editable KaTeX integration)
+4. State Management (Zustand for UI signals)
+5. Persistence (Debounced JSON serialization to `localStorage`)
